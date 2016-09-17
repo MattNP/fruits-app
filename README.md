@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fruits-app
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,7 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# fruits-app
+Dojo 1: Ember - Desarrollo de aplicaciones empresariales
+>>>>>>> 3c73f8f306a4f5eb55f80ea2ab694091eaca0c43
