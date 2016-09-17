@@ -10,4 +10,7 @@
     Sobre Nosotros
   {{/link-to}}
 </div>
+{{#each model as |fruit1|}}
+  {{fruits-listing fruit=fruit1}}
+{{/each}}
 {{outlet}}
